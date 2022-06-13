@@ -8,7 +8,7 @@ This is a classification project since the variable to be predicted is binary (w
 
 
 
-
+Deployment done by using Streamlit
 
 Not potable:
 (https://user-images.githubusercontent.com/102342213/173314281-4b244bf6-beaa-4024-bc37-2dcd03d35b36.png)
