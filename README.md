@@ -1,4 +1,4 @@
-Mr. Yeshwanth R                                                        https://github.com/yeshuysr
+Mr. Yeshwanth R                                                        https://github.com/yeshuysr  \n
 Ms. Thanuja KM                                                         https://github.com/Thanujakm
 Mr. Ashwin Prakash P                                                   https://github.com/Aswinprakas/water-Qualityprediction
 Mr. Vinod U                                                            https://github.com/UVinodyogi/Project_P117                                            
