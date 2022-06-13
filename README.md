@@ -13,7 +13,7 @@ This is a classification project since the variable to be predicted is binary (w
 Not potable:
 (https://user-images.githubusercontent.com/102342213/173314281-4b244bf6-beaa-4024-bc37-2dcd03d35b36.png)
 
-Potable
+Potable:
 (https://user-images.githubusercontent.com/102342213/173314302-3552948e-60f7-4027-8af9-e2b204386b3c.png)
 
 GitHub Links of team members:
@@ -34,4 +34,3 @@ Mr. Mallikarjuna Reddy G                                               https://g
 
 
 Mr. Aditya Varma K                                                     https://github.com/adityavarma99/adityavarma99
-
