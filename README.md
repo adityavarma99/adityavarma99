@@ -16,21 +16,6 @@ Not potable:
 Potable:
 (https://user-images.githubusercontent.com/102342213/173314302-3552948e-60f7-4027-8af9-e2b204386b3c.png)
 
-GitHub Links of team members:
-
-Mr. Yeshwanth R                                                        https://github.com/yeshuysr 
-
-
-Ms. Thanuja KM                                                         https://github.com/Thanujakm
-
-
-Mr. Ashwin Prakash P                                                   https://github.com/Aswinprakas/water-Qualityprediction
-
-
-Mr. Vinod U                                                            https://github.com/UVinodyogi/Project_P117   
-
-
-Mr. Mallikarjuna Reddy G                                               https://github.com/MallikarjunaReddy448
 
 
 Mr. Aditya Varma K                                                     https://github.com/adityavarma99/adityavarma99
